@@ -1,2 +1,9 @@
 Step 1: Order Pizza
+1A: Call Pizza place
+2A: Describe desired Pizza
+3A: Include additional requests, such as breadsticks and drinks
 Step 2: Recieve Devlivery
+1B: Answer door when delivery driver arrives
+2B: Accept Ordered items and confirm the order is correct
+3B: Pay the required amount for the order to the delivery driver
+4B: (optional) Provide a tip for the delivery driver
